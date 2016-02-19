@@ -1,3 +1,3 @@
 ## tiny-common
 
-常用Android工具类集合。
+Android开发中常用工具类。
